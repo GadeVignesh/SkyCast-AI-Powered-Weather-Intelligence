@@ -1,4 +1,4 @@
-const apiKey = "c3d4f8c9b6e0d1abdffa388d6e86652c";
+const apiKey = "YOUR_API_KEY_HERE";
 
 const weatherResult = document.getElementById("weatherResult");
 const forecastResult = document.getElementById("forecastResult");
@@ -307,3 +307,4 @@ function checkSevereWeather(data) {
 function closeAlert() {
   alertBanner.classList.add("hidden");
 }
+
