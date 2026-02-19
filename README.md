@@ -67,9 +67,9 @@ Designed with a modern SaaS-style UI, smooth animations, and intelligent weather
 
 SkyCast/
 │
-├── index.html
-├── weather.css
-├── weather.js
+├── skycast.html
+├── skycast.css
+├── skycast.js
 └── README.md
 
 
